@@ -1,0 +1,5 @@
+Principales Paradigmas: 
+- Programación Estructurada
+- Programación Orientada a Objetos
+- Programación Funcional
+- Programación Reactiva

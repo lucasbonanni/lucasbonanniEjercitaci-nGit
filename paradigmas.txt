@@ -1,5 +1,7 @@
 Principales Paradigmas: 
-- Programación Estructurada fomenta 
-- Programación Orientada a Objetos terrible
-- Programación Funcional complejo
-- Programación Reactiva super Dios
+- Programaciï¿½n Estructurada fomenta 
+- Programaciï¿½n Orientada a Objetos terrible
+- Programaciï¿½n Funcional complejo
+- Programaciï¿½n Reactiva super Dios
+
+cambio en la rama Principal
